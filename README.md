@@ -1,1 +1,1 @@
-# NN_Mini_Projects
+Handwritten Digits Recongnition
